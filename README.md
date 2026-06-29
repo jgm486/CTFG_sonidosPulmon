@@ -63,5 +63,4 @@ pip install tensorflow numpy librosa scikit-learn jupyterlab
    - Después `entrenar_modelos.ipynb`, que entrena los tres modelos y produce las
      métricas y las matrices de confusión.
 
-Las semillas están fijadas a 42 para garantizar la reproducibilidad. El
-entrenamiento está pensado para ejecutarse en CPU.
+Las semillas están fijadas a 42 para garantizar la reproducibilidad.
